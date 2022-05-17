@@ -3,15 +3,23 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
 
 
 ### Data Quality Report
-    #### Data High-Level Description:
-    This is a Brazilian ecommerce public dataset of orders made at Olist Store, consisted of 8 Entity Relashionship Diagrams(ERD). The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
+   #### Data High-Level Description:
+    This is a Brazilian ecommerce public dataset of orders made at Olist Store, 
+    consisted of 8 Entity Relashionship Diagrams(ERD). 
+    The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
+    Its features allows viewing an order from multiple dimensions: from order status, price, 
+    payment and freight performance to customer location, product attributes and finally reviews written by customers.
+    
     https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
     Some dataset exceeds GitHub's 25MB limit, can not be uploaded. They're also available in the above link. 
-    #### Summary Information for All Fields:
+    
+   #### Summary Information for All Fields:
     Through merging the 8 ERD, data cleaning, attribute selection, we come to the numeric and categorical frames:
-    ![Numeric](/Brazil_Images/Numeric.png)
-    ![](RaeFan0614/Brazil-E-commerce-Customer-RMF-Analysis/Brazil_Images/Numeric.png?raw=true)
-    #### Fields Short Descriptions:
+    
+![](Brazil_Images/Numeric.png?raw=true)
+![](Brazil_Images/Categorical.png?raw=true)
+
+   #### Fields Short Descriptions:
     Investigated some interesting attributes distribution
     IMAGE: Product Price Violin
     Product sum of sales
