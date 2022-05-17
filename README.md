@@ -9,7 +9,7 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
     Some dataset exceeds GitHub's 25MB limit, can not be uploaded. They're also available in the above link. 
     #### Summary Information for All Fields:
     Through merging the 8 ERD, data cleaning, attribute selection, we come to the numeric and categorical frames:
-    ![Numeric](https://github.com/RaeFan0614/Brazil-E-commerce-Customer-RMF-Analysis/blob/main/Brazil_Images/Numeric.png)
+    ![Numeric](/Brazil_Images/Numeric.png)
     ![](RaeFan0614/Brazil-E-commerce-Customer-RMF-Analysis/Brazil_Images/Numeric.png?raw=true)
     #### Fields Short Descriptions:
     Investigated some interesting attributes distribution
