@@ -23,13 +23,13 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
     Investigated some interesting attributes distribution
     
 ![](Brazil_Images/Product_Price_Violin.png)
+
 ![](Brazil_images/Product_Sum_of_Sales.png)
+
 ![](Brazil_images/Customer_GeoJson.png)
+
 ![](Brazil_images/Price_per_Transaction.png)
     
-    
-   
-
 ### Customer RMF
     I was curious about the consumer pattern and customer lifetime value, 
     hence the recency, frequency, monetary analysis.
@@ -39,35 +39,36 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
 ![](Brazil_images/Recency_Histogram.png)
     
     Monery histogram corroborates the Price per Transaction
-IMAGE M
+![](Brazil_images/Monetary_Histogram.png)
 
     Due to frequency histogram is disproportionately concentrated on "1 time" column, I added log to the y scale, showing as 
-Image Frequency Count
+![](Brazil_images/Frequency_Count.png)
 
     Scored the customers based on 3 criterion on a 1 to 5 scale, every customer is assigned a 3 digit score. 
     Assorted the customers based on the scores into 10 segmentations:
-IMAGE customer segmentations
+![](Brazil_images/Customer_Segmentation.png)
 
 
 ### Correlation
     I was trying to explore the factors that affect the customer satisfaction, 
     however based on this dataset there is no significant correlation with any known factors. 
     Attached is the box plot between price distribution in each review score. 
-IMAGE Price&Review Correlation
+    
+![](Brazil_images/Price&Review_Correlation.png)
     
     After multiple sets of comparison between review score and other variants, 
     I generated a correlation coefficient heatmap for all numeric variants:
-Numeric Correlation Heatmap
+![](Brazil_images/Numeric_Correlation.png)
     
     Also attempted to investigate if this E-commerce company has other "competitiveness", 
     no significant findings. Attached is the delivery time distribution chart based on date-time variance "processing".
-Delivery time
+![](Brazil_images/Delivery_Time.png)
     
     Some interesting results when I analyzed customers order place timestamp
     Purchase time distribution
-Purchase time bin distribution
+![](Brazil_images/Purchase_Time_Bin_Distribution.png)
     
     Other noteworthy analysis results are also included in the code. 
     Final image here is the business growing trend, intriguingly the sales peaked in November 2017, 
     more discussion in the code for your information.
-Business growing trend
+![](Brazil_images/Business_Growing Trend.png)
