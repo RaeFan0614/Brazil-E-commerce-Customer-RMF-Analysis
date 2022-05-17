@@ -16,8 +16,8 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
    #### Summary Information for All Fields:
     Through merging the 8 ERD, data cleaning, attribute selection, we come to the numeric and categorical frames:
     
-![](Brazil_Images/Numeric.png?raw=true)
-![](Brazil_Images/Categorical.png?raw=true)
+![](Brazil_Images/Numeric.png)
+![](Brazil_Images/Categorical.png)
 
    #### Fields Short Descriptions:
     Investigated some interesting attributes distribution
@@ -71,4 +71,4 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
     Other noteworthy analysis results are also included in the code. 
     Final image here is the business growing trend, intriguingly the sales peaked in November 2017, 
     more discussion in the code for your information.
-![](Brazil_images/Business_Growing Trend.png)
+![](Brazil_images/Business_Growing_Trend.png)
