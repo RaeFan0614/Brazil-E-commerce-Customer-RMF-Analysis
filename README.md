@@ -21,10 +21,11 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
 
    #### Fields Short Descriptions:
     Investigated some interesting attributes distribution
-    
-![](Brazil_Images/Product_Price_Violin.png)
+ 
 
-![](Brazil_images/Product_Sum_of_Sales.png)
+<img src = "Brazil_images/Product_Sum_of_Sales.png">
+
+<img src = "Brazil_Images/Product_Price_Violin.png">
 
 ![](Brazil_images/Customer_GeoJson.png)
 
@@ -36,7 +37,7 @@ An exercise: analyzing customer RMF to optimize targetted business stratgegy.
     Comparing each customer unique ID's latest purchase timestamp 
     with the latest purchase timestamp across all database. Recency result is distant.
     
-![](Brazil_images/Recency_Histogram.png)
+<img src = "Brazil_images/Recency_Histogram.png">
     
     Monery histogram corroborates the Price per Transaction
 ![](Brazil_images/Monetary_Histogram.png)
