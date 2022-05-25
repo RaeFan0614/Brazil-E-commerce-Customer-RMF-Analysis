@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
-  chunk_output_type: inline
----
 
 ## Brazil-E-commerce-Customer-RMF-Analysis
 
