@@ -6,7 +6,7 @@ stratgegy.
 
 ### Data Quality Report
 
-\#### Data High-Level Description: This is a Brazilian ecommerce public
+#### Data High-Level Description: This is a Brazilian ecommerce public
 dataset of orders made at Olist Store, consisted of 8 Entity
 Relashionship Diagrams(ERD). The dataset has information of 100k orders
 from 2016 to 2018 made at multiple marketplaces in Brazil. Its features
@@ -17,13 +17,13 @@ attributes and finally reviews written by customers.
     https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
     Some dataset exceeds GitHub's 25MB limit, can not be uploaded. They're also available in the above link. 
 
-\#### Summary Information for All Fields: Through merging the 8 ERD,
+#### Summary Information for All Fields: Through merging the 8 ERD,
 data cleaning, attribute selection, we come to the numeric and
 categorical frames:
 
 ![](Brazil_Images/Numeric.png) ![](Brazil_Images/Categorical.png)
 
-\#### Fields Short Descriptions: Investigated some interesting
+#### Fields Short Descriptions: Investigated some interesting
 attributes distribution ![](Brazil_Images/Product_Sum_of_Sales.png)
 
 <img src="Brazil_Images/Product_Price_Violin.png"/>
